@@ -30,5 +30,20 @@ A simple and elegant shopping list web application built with vanilla HTML, CSS,
 4. Click "Add item" or press `Enter`.
 5. Click "Delete" next to any item to remove it.
 
+## 📄 License
 
+This project is open source and free to use for learning, tweaking, or building something new. No attribution required — but a star ⭐ is always appreciated!
+
+---
+
+## 💡 Ideas for Improvement
+
+- Save list items to localStorage
+- Edit items inline
+- Add checkboxes or mark items as "purchased"
+- Dark mode toggle
+
+---
+
+Made with ❤️ and JavaScript.
 
